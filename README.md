@@ -1,6 +1,8 @@
 # Excel-experience
-
 A front-end-only React project that replicates a spreadsheet-like UI experience, inspired by Google Sheets and styled based on a Figma design.
+
+## [Live Demo](https://excel-experience-gr32.vercel.app/)
+
 
 ## 🚀 Tech Stack
 
